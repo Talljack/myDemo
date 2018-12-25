@@ -1,2 +1,3 @@
-# myDemo
-a javascript demo
+这是一个小大型项目，用了gulp流工具构建的移动端QQMusic
+
+有兴趣的小伙伴可以看一下。
